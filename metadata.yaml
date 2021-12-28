@@ -5,6 +5,9 @@ contributor:
     agent_name: Huybers, John A.
     gutenberg_agent_id: '54053'
     url: http://www.gutenberg.org/2009/agents/54053
+covers:
+- cover_type: archival
+  image_path: 66962-h/images/cover.jpg
 creator:
   author:
     agent_name: McIntyre, John Thomas
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4311
     wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66962#In-Texas-with-Davy-Crockett
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66962'
